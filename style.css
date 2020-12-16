@@ -1,0 +1,9 @@
+body{
+    margin: 10% 20% 10% 20%;
+}
+
+#spotlightPanel{
+    position: fixed;
+    left: 85%;
+    top: 10%;
+}
